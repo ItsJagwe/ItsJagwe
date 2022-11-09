@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Yadav aka @ItsJagwe
 - 👀 I’m interested in codes that make people wonder.
-- 🌱 I’m currently learning JAVA,REACT,LARAVEL,PYTHON,PHP....
+- 🌱 I’m currently learning PHP,LARAVEL,CAKEPHP....
 - 📫 How to reach me on mail: yashyadav313@outlook.com
 
 <!---
